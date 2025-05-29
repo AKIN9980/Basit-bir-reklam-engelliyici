@@ -1,0 +1,1 @@
+Bu paketlenmemiş bir chrome uzantısıdır. Kullanmak için dosyaları bunun için özel bir klasöre yüklüyip chromenin "Uzantılar" sekmesine gelip geliştirici modunu açıp Paketlenmemeiş öğe yükle diyip klasörü seçip kurmanız gerekir.
